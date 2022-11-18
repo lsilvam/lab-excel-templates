@@ -1,0 +1,1 @@
+In this folder are files that were discuntinue due to a new version, or because they are no longer necessary in the laboratory (e.g. because the kit is no longer the same).
