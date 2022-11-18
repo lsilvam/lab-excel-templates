@@ -27,4 +27,4 @@ A brief description of each one:
    - a template to "quantify" western blots with data from ImageJ, with pre-built plot for three experimental conditions and t-test
 
 DISCLAIMER:
-These are templates that I created for me needs and for my use, they are probably not error free. Use them at your own risk. If you find errors, please open an issue. 
+These are templates that I created for me, they probably are not error free. Use them at your own risk. If you find errors, please open an issue. 
